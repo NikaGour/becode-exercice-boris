@@ -62,6 +62,10 @@ Pas de panique , tout va bien se passer , on va tout faire pour ne pas etre perd
 * pour changer de branche : 
     * git switch nomdelabranche
 
+* pour fusionner les branches , il faut revenir sur la master et :
+
+    * git merge nomdelabranche
+
 
 
 # Comment participer au git de quelqu'un ?  
