@@ -66,3 +66,4 @@ this theory file has been reviewed by Lionel
   
 this theory file has been reviewed by Daniel Diaz (10/10 on gif usage)
 
+this theory file has been reviewed by Nika :+1:
