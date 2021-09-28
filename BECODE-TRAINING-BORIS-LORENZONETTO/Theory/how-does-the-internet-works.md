@@ -60,3 +60,7 @@ La solution est bien evidemment les adresses IP ,c'est une sorte de carte d'iden
 Voila , cest terminé pour Aujourd'hui , la prochaine fois je vous parlerai de l'abrévisation WWW signifiant le World Wild Web ! 
 
 ![finish](https://media.giphy.com/media/QgcQLZa6glP2w/giphy.gif?cid=ecf05e474i87j6rvgs5jl3w8x9uxdo491jl5jgs2w3u49ijh&rid=giphy.gif&ct=g)
+
+LGTM
+
+this theory file has been reviewed by Etienne
