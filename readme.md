@@ -1,16 +1,20 @@
-# **Bienvenue ceci est un readme astuce **
-
-on va apprendre tout un tas de chose ! 
+# Bienvenue ceci est un readme astuce 
 
 
-*Une fois que le nouveau repository a deja été créé une fois, si je change de répository et que je veux y envoyer un fichier , il faut juste git init , git add , git commit, git push . et il se met dans le bon repository.*
-
-## lien utile : https://buzut.net/cours/versioning-avec-git/commandes-indispensables
+ ### Si avant vous souhaitez mieux me connaitre  : [c est ici](https://github.com/borisbecode/jour2/blob/master/readme.md)
 
 
-![ne sois pas perdu](https://img-9gag-fun.9cache.com/photo/aVD4oo8_460s.jpg)
 
-# liste de commande GIT utile 
+Pas de panique , tout va bien se passer , on va tout faire pour ne pas etre perdu comme ce chat 
+
+
+
+![ne sois pas perdu](https://media.giphy.com/media/gX2NAgKI2HeoM/giphy.gif?cid=ecf05e47e9flspjo1ylgfgqjb6mm6mwx86fw9iyf7rq7mldg&rid=giphy.gif&ct=g)
+
+ # liste de commande GIT utile 
+
+* git pull : 
+    * permets de renvoyer les modifications du repository sur le local 
 
 *  git remote : permet d'ajouter un repository 
     * git remote  add origin + lien ssh
@@ -28,6 +32,8 @@ on va apprendre tout un tas de chose !
 * git push origin master :
     1. pour envoyer vers le github
     2.  git push -f origin master 
+    
+
 
 * cp :
     1. pour copier un fichier marche comme suit:
@@ -44,7 +50,7 @@ on va apprendre tout un tas de chose !
 
 * pour creer un dossier vide ,souvent on créé un fichier .gitkeep :  touch .gitkeep
 
-# les branches :
+# les branches : 
 
 
 * pour voir les branches actuelles : 
@@ -58,7 +64,7 @@ on va apprendre tout un tas de chose !
 
 
 
-# Comment participer au git de quelqu'un ? 
+# Comment participer au git de quelqu'un ?  
 
 1. Cliquez sur le bouton Fork du projet
 2. git clone + ssh de son fork personnel
@@ -81,5 +87,12 @@ on va apprendre tout un tas de chose !
 
 ![Explosion](https://media.giphy.com/media/2rqEdFfkMzXmo/giphy.gif?cid=ecf05e47tcvg6u7oeh1rbwf04tq5a7n3c8ye9wq7l0s6q7e8&rid=giphy.gif&ct=g)
 
-Lien vers ma page de présentation : [lien](https://github.com/borisbecode/jour2/blob/master/readme.md)
+*Une fois que le nouveau repository a deja été créé une fois, si je change de répository et que je veux y envoyer un fichier , il faut juste git init , git add , git commit, git push . et il se met dans le bon repository.*
+
+
+
+## lien utile : 
+https://buzut.net/cours/versioning-avec-git/commandes-indispensables
+
+
 
