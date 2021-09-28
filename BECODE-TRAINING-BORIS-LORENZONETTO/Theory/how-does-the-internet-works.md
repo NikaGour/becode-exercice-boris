@@ -63,4 +63,5 @@ Voila , cest terminé pour Aujourd'hui , la prochaine fois je vous parlerai de l
 
 LGTM
 
-this theory file has been reviewed by Etienne
+this theory file has been reviewed by Etienne  
+this theory file has been reviewed by Daniel Diaz (10/10 on gif usage)
